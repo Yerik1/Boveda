@@ -1,0 +1,258 @@
+{
+  "main": {
+    "id": "d4d0de353c818033",
+    "type": "split",
+    "children": [
+      {
+        "id": "33192ff47a4c81da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f6b68901e7b3633",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06_Despliegue e Infrastructura/Azure DevOps.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Azure DevOps"
+            }
+          },
+          {
+            "id": "c7aa027f4f9e3b04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Procesos de Desarrollo/Scrum.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Scrum"
+            }
+          },
+          {
+            "id": "8d3b4286617fdab3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Requirimientos/Entrevistas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Entrevistas"
+            }
+          },
+          {
+            "id": "8f4dff26d38ffb4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "07_Mantenimiento/Monitoreo de Aplicación.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Monitoreo de Aplicación"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6c372372deceefdc",
+    "type": "split",
+    "children": [
+      {
+        "id": "12212f3d31d37c47",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d51074be8fa6085",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "675ac0a2954d9301",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:ingeniería-de-software",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "65e5547cd32602d9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "153bd0fadc9c066a",
+    "type": "split",
+    "children": [
+      {
+        "id": "29fcbd09b0f720f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4baafecd14bf72bc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "07_Mantenimiento/Monitoreo de Aplicación.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Monitoreo de Aplicación"
+            }
+          },
+          {
+            "id": "c60262bfc7305ef3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "07_Mantenimiento/Monitoreo de Aplicación.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Monitoreo de Aplicación"
+            }
+          },
+          {
+            "id": "d0249b5d7c81b9ac",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "113bfa2abea6196e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "afd1ae4304a1ed35",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "07_Mantenimiento/Monitoreo de Aplicación.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Monitoreo de Aplicación"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "8f4dff26d38ffb4b",
+  "lastOpenFiles": [
+    "08_Templates/Atomic Template.md",
+    "07_Mantenimiento/Monitoreo de Aplicación.md",
+    "01_Procesos de Desarrollo/Scrum.md",
+    "Microservices.md",
+    "06_Despliegue e Infrastructura/Azure DevOps.md",
+    "05_Pruebas/Pruebas Unitarias.md",
+    "04_Implementación/Estándares de Programación.md",
+    "03_Arquitectura y Diseño/Microservicios.md",
+    "02_Requirimientos/Entrevistas.md",
+    "05_Pruebas/Pruebas Funcionales.md",
+    "02_Requirimientos/Requerimientos Funcionales.md",
+    "02_Requirimientos/Requerimientos No Funcionales.md",
+    "00_Inbox/Ejemplo Nueva Nota.md",
+    "02_Requirimientos/Requerimientos de Sistema.md",
+    "02_Requirimientos/Requerimientos de Negocio.md",
+    "02_Requirimientos/Stakeholder.md",
+    "01_Procesos de Desarrollo/Sprint Planning.md",
+    "01_Procesos de Desarrollo/Definition of Done (DoD).md",
+    "01_Procesos de Desarrollo/User Story.md",
+    "01_Procesos de Desarrollo/Taskboard.md",
+    "01_Procesos de Desarrollo/Product Owner.md",
+    "01_Procesos de Desarrollo/Planning Poker.md",
+    "01_Procesos de Desarrollo/Story Points.md",
+    "01_Procesos de Desarrollo/Filosofía ágil.md",
+    "01_Procesos de Desarrollo/Product Backlog.md",
+    "01_Procesos de Desarrollo/Velocity.md"
+  ]
+}

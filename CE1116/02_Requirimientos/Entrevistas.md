@@ -11,12 +11,18 @@ Topic:
 
 ## 📚 Idea/Concepto 
 
+Las entrevistas son una técnica de levantamiento de información donde se conversa con stakeholders para entender necesidades reales, problemas, contexto y restricciones. Sirven para descubrir requerimientos, priorizar valor y aclarar criterios de aceptación.
 
 ## 📌 Puntos Claves (Opcional)
 - 
 
 ## 🔗 Connections
 - [[Scrum ]]
+- [[Stakeholder]]  
+- [[Requerimientos de Negocio]]  
+- [[Requerimientos Funcionales]]  
+- [[User Story]]  
+- [[Product Backlog]]
 
 ## 💡 Personal Insight (Opcional)
 - 

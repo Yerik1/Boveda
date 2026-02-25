@@ -9,12 +9,18 @@ Tema: control-ciclo-vida-producto
 
 ## 📚 Idea/Concepto 
 
+Azure DevOps es una plataforma para gestionar el ciclo de vida del desarrollo: planificación (boards), repositorios, pipelines y releases. En la práctica ayuda a conectar trabajo (historias/tareas) con código, pruebas y despliegues.
 
 ## 📌 Puntos Claves (Opcional)
 - 
 
 ## 🔗 Connections
-- [[Scrum]]
+- [[Scrum]]  
+- [[Sprint Backlog]]  
+- [[Taskboard]]  
+- [[Pruebas Unitarias]]  
+- [[Definition of Done (DoD)]]  
+- [[Monitoreo de Aplicación]]
 
 ## 💡 Personal Insight (Opcional)
 - 

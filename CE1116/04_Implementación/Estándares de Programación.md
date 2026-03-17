@@ -14,7 +14,7 @@ Los estándares de programación son reglas y buenas prácticas para escribir c�
 - 
 
 ## 🔗 Connections
-- [[ ]][[Definition of Done (DoD)]]  
+- [[Definition of Done (DoD)]]  
 - [[Pruebas Unitarias]]  
 - [[Pruebas Funcionales]]  
 - [[Azure DevOps]]  
